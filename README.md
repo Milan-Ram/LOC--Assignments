@@ -1,2 +1,2 @@
-# LOC-1st-week-assignment
+# LOC--Assignment
 Milan Ram
